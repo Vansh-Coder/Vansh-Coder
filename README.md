@@ -5,7 +5,7 @@ integrating advanced machine learning models, and deploying secure, performant s
 launch and scaling them to maturity.
 
 Checkout my portfolio website :  
-[vanshcoder.com](vanshcoder.com)
+[vanshcoder.com](https://vanshcoder.com)
   
 Connect on LinkedIn :  
-[linkedin.com/in/vanshg100](www.linkedin.com/in/vanshg100)
+[linkedin.com/in/vanshg100](https://www.linkedin.com/in/vanshg100)
